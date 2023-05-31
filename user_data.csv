@@ -1,0 +1,101 @@
+User ID,Age,Gender,Location,Brand,Model,Post,Sentiment,Category,Keywords,Features/ Problems
+1,35,Male,Los Angeles,USA,HP,OfficeJet Pro 6968,Having issues with the OfficeJet Pro 6968 scanner.,Complaint,Problem,Scanner Issues
+2,42,Female,Sydney,Australia,HP,DeskJet 3755,The DeskJet 3755 is a compact and efficient printer.,Appreciation,Appreciation,Compact Design
+3,28,Male,Toronto,Canada,HP,LaserJet Pro MFP,The LaserJet Pro MFP offers excellent print quality.,Appreciation,Appreciation,Print Quality
+4,33,Female,Berlin,Germany,HP,ENVY Photo 6255,The ENVY Photo 6255 wireless setup is confusing.,Complaint,Problem,Wireless Setup
+5,39,Male,Paris,France,HP,DeskJet 3639,The DeskJet 3639 is an affordable and reliable printer.,Appreciation,Appreciation,Affordability
+6,29,Female,Tokyo,Japan,HP,OfficeJet 5255,Having trouble with the OfficeJet 5255 paper jam.,Complaint,Problem,Paper Jam
+7,36,Male,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro delivers fast and high-quality printing.,Appreciation,Appreciation,Fast Printing
+8,43,Female,New York,USA,HP,ENVY Photo 7855,Need recommendations for ENVY Photo 7855 ink cartridges.,Suggestion,Suggestion,Ink Cartridge Recommendations
+9,31,Male,London,UK,HP,DeskJet 3630,The DeskJet 3630 is user-friendly and produces good prints.,Appreciation,Appreciation,User-Friendly
+10,45,Female,Los Angeles,USA,HP,OfficeJet Pro 6968,The OfficeJet Pro 6968 is a reliable and feature-rich printer.,Appreciation,Appreciation,Reliability
+11,33,Male,Sydney,Australia,HP,DeskJet 3755,Need help troubleshooting DeskJet 3755 connectivity issues.,Complaint,Problem,Connectivity Issues
+12,38,Female,Toronto,Canada,HP,LaserJet Pro MFP,The LaserJet Pro MFP is an all-in-one printer with great features.,Appreciation,Appreciation,All-in-One Functionality
+13,29,Male,Berlin,Germany,HP,ENVY Photo 6255,Having issues with the ENVY Photo 6255 ink cartridges.,Complaint,Problem,Ink Cartridge Issues
+14,36,Female,Paris,France,HP,DeskJet 3639,The DeskJet 3639 is a compact and reliable printer for home use.,Appreciation,Appreciation,Compact Design
+15,42,Male,Tokyo,Japan,HP,OfficeJet 5255,The OfficeJet 5255 is a versatile all-in-one printer.,Appreciation,Appreciation,Versatility
+16,29,Female,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro provides excellent print speed and quality.,Appreciation,Appreciation,Print Speed
+17,38,Male,New York,USA,HP,ENVY Photo 7855,The ENVY Photo 7855 has a wireless connectivity issue.,Complaint,Problem,Wireless Connectivity
+18,45,Female,London,UK,HP,DeskJet 2131,The DeskJet 2131 is an affordable printer with basic features.,Appreciation,Appreciation,Affordability
+19,31,Male,Los Angeles,USA,HP,OfficeJet 3833,Having trouble setting up the OfficeJet 3833 printer.,Complaint,Problem,Setup Issues
+20,41,Female,Sydney,Australia,HP,LaserJet Pro MFP,The LaserJet Pro MFP is a reliable and high-performance printer.,Appreciation,Appreciation,Reliability
+21,34,Male,Toronto,Canada,HP,ENVY 5055,The ENVY 5055 offers wireless printing and good print quality.,Appreciation,Appreciation,Wireless Printing
+22,39,Female,Berlin,Germany,HP,DeskJet 2652,The DeskJet 2652 is easy to set up and use.,Appreciation,Appreciation,Easy Setup
+23,29,Male,Paris,France,HP,OfficeJet 3830,The OfficeJet 3830 is a compact and reliable printer for small offices.,Appreciation,Appreciation,Compact Design
+24,45,Female,Tokyo,Japan,HP,LaserJet Pro MFP,Having issues with the LaserJet Pro MFP scanning feature.,Complaint,Problem,Scanning Issues
+25,30,Male,Mumbai,India,HP,ENVY Photo 7155,The ENVY Photo 7155 produces vibrant and detailed prints.,Appreciation,Appreciation,Vibrant Prints
+26,38,Female,New York,USA,HP,DeskJet 3630,Need recommendations for DeskJet 3630 ink cartridges.,Suggestion,Suggestion,Ink Cartridge Recommendations
+27,42,Male,London,UK,HP,OfficeJet 4650,The OfficeJet 4650 is a versatile all-in-one printer.,Appreciation,Appreciation,Versatility
+28,31,Female,Los Angeles,USA,HP,LaserJet Pro MFP,The LaserJet Pro MFP has a paper jam issue.,Complaint,Problem,Paper Jam
+29,36,Male,Sydney,Australia,HP,ENVY Photo 6255,The ENVY Photo 6255 offers wireless printing and good photo quality.,Appreciation,Appreciation,Wireless Printing
+30,45,Female,Toronto,Canada,HP,DeskJet 3755,The DeskJet 3755 is a compact and efficient printer for home use.,Appreciation,Appreciation,Compact Design
+31,33,Male,Berlin,Germany,HP,OfficeJet Pro 6968,The OfficeJet Pro 6968 is a feature-rich printer with wireless connectivity.,Appreciation,Appreciation,Feature-Rich
+32,39,Female,Paris,France,HP,DeskJet 3639,Having trouble with the DeskJet 3639 printer's paper feed.,Complaint,Problem,Paper Feed Issues
+33,29,Male,Tokyo,Japan,HP,OfficeJet 5255,The OfficeJet 5255 is a user-friendly and efficient all-in-one printer.,Appreciation,Appreciation,User-Friendly
+34,36,Female,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro provides fast and high-quality printing.,Appreciation,Appreciation,Fast Printing
+35,42,Male,New York,USA,HP,ENVY Photo 7855,Need help troubleshooting ENVY Photo 7855 wireless connectivity.,Complaint,Problem,Wireless Connectivity Issues
+36,31,Female,London,UK,HP,DeskJet 2131,The DeskJet 2131 is an affordable printer with decent print quality.,Appreciation,Appreciation,Affordability
+37,45,Male,Los Angeles,USA,HP,OfficeJet 3833,The OfficeJet 3833 is a reliable and compact printer for small businesses.,Appreciation,Appreciation,Reliability
+38,39,Female,Sydney,Australia,HP,LaserJet Pro MFP,Having issues with the LaserJet Pro MFP faxing feature.,Complaint,Problem,Faxing Issues
+39,34,Male,Toronto,Canada,HP,ENVY 5055,The ENVY 5055 is an easy-to-use printer with wireless capabilities.,Appreciation,Appreciation,User-Friendly
+40,29,Female,Berlin,Germany,HP,DeskJet 2652,The DeskJet 2652 is a compact and reliable printer for home use.,Appreciation,Appreciation,Compact Design
+41,36,Male,Paris,France,HP,OfficeJet 3830,The OfficeJet 3830 is an all-in-one printer with good performance.,Appreciation,Appreciation,All-in-One Functionality
+42,31,Female,Tokyo,Japan,HP,LaserJet Pro MFP,The LaserJet Pro MFP has a scanning issue.,Complaint,Problem,Scanning Issues
+43,38,Male,Mumbai,India,HP,ENVY Photo 7155,The ENVY Photo 7155 produces high-quality prints with vibrant colors.,Appreciation,Appreciation,High-Quality Prints
+44,45,Female,New York,USA,HP,DeskJet 3630,The DeskJet 3630 is a budget-friendly printer with reliable performance.,Appreciation,Appreciation,Affordability
+45,30,Male,London,UK,HP,OfficeJet 4650,Having issues with the OfficeJet 4650 ink cartridges.,Complaint,Problem,Ink Cartridge Issues
+46,39,Female,Los Angeles,USA,HP,LaserJet Pro MFP,The LaserJet Pro MFP is a versatile printer with multiple functions.,Appreciation,Appreciation,Versatility
+47,36,Male,Sydney,Australia,HP,ENVY Photo 6255,The ENVY Photo 6255 offers wireless printing and good photo quality.,Appreciation,Appreciation,Wireless Printing
+48,45,Female,Toronto,Canada,HP,DeskJet 3755,The DeskJet 3755 is a compact and efficient printer for home use.,Appreciation,Appreciation,Compact Design
+49,33,Male,Berlin,Germany,HP,OfficeJet Pro 6968,The OfficeJet Pro 6968 is a feature-rich printer with wireless connectivity.,Appreciation,Appreciation,Feature-Rich
+50,39,Female,Paris,France,HP,DeskJet 3639,Having trouble with the DeskJet 3639 printer's paper feed.,Complaint,Problem,Paper Feed Issues
+51,29,Male,Tokyo,Japan,HP,OfficeJet 5255,The OfficeJet 5255 is a user-friendly and efficient all-in-one printer.,Appreciation,Appreciation,User-Friendly
+52,36,Female,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro provides fast and high-quality printing.,Appreciation,Appreciation,Fast Printing
+53,42,Male,New York,USA,HP,ENVY Photo 7855,Need help troubleshooting ENVY Photo 7855 wireless connectivity.,Complaint,Problem,Wireless Connectivity Issues
+54,31,Female,London,UK,HP,DeskJet 2131,The DeskJet 2131 is an affordable printer with decent print quality.,Appreciation,Appreciation,Affordability
+55,45,Male,Los Angeles,USA,HP,OfficeJet 3833,The OfficeJet 3833 is a reliable and compact printer for small businesses.,Appreciation,Appreciation,Reliability
+56,39,Female,Sydney,Australia,HP,LaserJet Pro MFP,Having issues with the LaserJet Pro MFP faxing feature.,Complaint,Problem,Faxing Issues
+57,34,Male,Toronto,Canada,HP,ENVY 5055,The ENVY 5055 is an easy-to-use printer with wireless capabilities.,Appreciation,Appreciation,User-Friendly
+58,29,Female,Berlin,Germany,HP,DeskJet 2652,The DeskJet 2652 is a compact and reliable printer for home use.,Appreciation,Appreciation,Compact Design
+59,36,Male,Paris,France,HP,OfficeJet 3830,The OfficeJet 3830 is an all-in-one printer with good performance.,Appreciation,Appreciation,All-in-One Functionality
+60,31,Female,Tokyo,Japan,HP,LaserJet Pro MFP,The LaserJet Pro MFP has a scanning issue.,Complaint,Problem,Scanning Issues
+61,38,Male,Mumbai,India,HP,ENVY Photo 7155,The ENVY Photo 7155 produces high-quality prints with vibrant colors.,Appreciation,Appreciation,High-Quality Prints
+62,45,Female,New York,USA,HP,DeskJet 3630,The DeskJet 3630 is a budget-friendly printer with reliable performance.,Appreciation,Appreciation,Affordability
+63,30,Male,London,UK,HP,OfficeJet 4650,Having issues with the OfficeJet 4650 ink cartridges.,Complaint,Problem,Ink Cartridge Issues
+64,39,Female,Los Angeles,USA,HP,LaserJet Pro MFP,The LaserJet Pro MFP is a versatile printer with multiple functions.,Appreciation,Appreciation,Versatility
+65,36,Male,Sydney,Australia,HP,ENVY Photo 6255,The ENVY Photo 6255 offers wireless printing and good photo quality.,Appreciation,Appreciation,Wireless Printing
+66,45,Female,Toronto,Canada,HP,DeskJet 3755,The DeskJet 3755 is a compact and efficient printer for home use.,Appreciation,Appreciation,Compact Design
+67,33,Male,Berlin,Germany,HP,OfficeJet Pro 6968,The OfficeJet Pro 6968 is a feature-rich printer with wireless connectivity.,Appreciation,Appreciation,Feature-Rich
+68,39,Female,Paris,France,HP,DeskJet 3639,Having trouble with the DeskJet 3639 printer's paper feed.,Complaint,Problem,Paper Feed Issues
+69,29,Male,Tokyo,Japan,HP,OfficeJet 5255,The OfficeJet 5255 is a user-friendly and efficient all-in-one printer.,Appreciation,Appreciation,User-Friendly
+70,36,Female,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro provides fast and high-quality printing.,Appreciation,Appreciation,Fast Printing
+71,42,Male,New York,USA,HP,ENVY Photo 7855,Need help troubleshooting ENVY Photo 7855 wireless connectivity.,Complaint,Problem,Wireless Connectivity Issues
+72,31,Female,London,UK,HP,DeskJet 2131,The DeskJet 2131 is an affordable printer with decent print quality.,Appreciation,Appreciation,Affordability
+73,45,Male,Los Angeles,USA,HP,OfficeJet 3833,The OfficeJet 3833 is a reliable and compact printer for small businesses.,Appreciation,Appreciation,Reliability
+74,39,Female,Sydney,Australia,HP,LaserJet Pro MFP,Having issues with the LaserJet Pro MFP faxing feature.,Complaint,Problem,Faxing Issues
+75,34,Male,Toronto,Canada,HP,ENVY 5055,The ENVY 5055 is an easy-to-use printer with wireless capabilities.,Appreciation,Appreciation,User-Friendly
+76,29,Female,Berlin,Germany,HP,DeskJet 2652,The DeskJet 2652 is a compact and reliable printer for home use.,Appreciation,Appreciation,Compact Design
+77,36,Male,Paris,France,HP,OfficeJet 3830,The OfficeJet 3830 is an all-in-one printer with good performance.,Appreciation,Appreciation,All-in-One Functionality
+78,31,Female,Tokyo,Japan,HP,LaserJet Pro MFP,The LaserJet Pro MFP has a scanning issue.,Complaint,Problem,Scanning Issues
+79,38,Male,Mumbai,India,HP,ENVY Photo 7155,The ENVY Photo 7155 produces high-quality prints with vibrant colors.,Appreciation,Appreciation,High-Quality Prints
+80,45,Female,New York,USA,HP,DeskJet 3630,The DeskJet 3630 is a budget-friendly printer with reliable performance.,Appreciation,Appreciation,Affordability
+81,30,Male,London,UK,HP,OfficeJet 4650,Having issues with the OfficeJet 4650 ink cartridges.,Complaint,Problem,Ink Cartridge Issues
+82,39,Female,Los Angeles,USA,HP,LaserJet Pro MFP,The LaserJet Pro MFP is a versatile printer with multiple functions.,Appreciation,Appreciation,Versatility
+83,36,Male,Sydney,Australia,HP,ENVY Photo 6255,The ENVY Photo 6255 offers wireless printing and good photo quality.,Appreciation,Appreciation,Wireless Printing
+84,45,Female,Toronto,Canada,HP,DeskJet 3755,The DeskJet 3755 is a compact and efficient printer for home use.,Appreciation,Appreciation,Compact Design
+85,33,Male,Berlin,Germany,HP,OfficeJet Pro 6968,The OfficeJet Pro 6968 is a feature-rich printer with wireless connectivity.,Appreciation,Appreciation,Feature-Rich
+86,39,Female,Paris,France,HP,DeskJet 3639,Having trouble with the DeskJet 3639 printer's paper feed.,Complaint,Problem,Paper Feed Issues
+87,29,Male,Tokyo,Japan,HP,OfficeJet 5255,The OfficeJet 5255 is a user-friendly and efficient all-in-one printer.,Appreciation,Appreciation,User-Friendly
+88,36,Female,Mumbai,India,HP,LaserJet Pro,The LaserJet Pro provides fast and high-quality printing.,Appreciation,Appreciation,Fast Printing
+89,42,Male,New York,USA,HP,ENVY Photo 7855,Need help troubleshooting ENVY Photo 7855 wireless connectivity.,Complaint,Problem,Wireless Connectivity Issues
+90,31,Female,London,UK,HP,DeskJet 2131,The DeskJet 2131 is an affordable printer with decent print quality.,Appreciation,Appreciation,Affordability
+91,45,Male,Los Angeles,USA,HP,OfficeJet 3833,The OfficeJet 3833 is a reliable and compact printer for small businesses.,Appreciation,Appreciation,Reliability
+92,39,Female,Sydney,Australia,HP,LaserJet Pro MFP,Having issues with the LaserJet Pro MFP faxing feature.,Complaint,Problem,Faxing Issues
+93,34,Male,Toronto,Canada,HP,ENVY 5055,The ENVY 5055 is an easy-to-use printer with wireless capabilities.,Appreciation,Appreciation,User-Friendly
+94,29,Female,Berlin,Germany,HP,DeskJet 2652,The DeskJet 2652 is a compact and reliable printer for home use.,Appreciation,Appreciation,Compact Design
+95,36,Male,Paris,France,HP,OfficeJet 3830,The OfficeJet 3830 is an all-in-one printer with good performance.,Appreciation,Appreciation,All-in-One Functionality
+96,31,Female,Tokyo,Japan,HP,LaserJet Pro MFP,The LaserJet Pro MFP has a scanning issue.,Complaint,Problem,Scanning Issues
+97,38,Male,Mumbai,India,HP,ENVY Photo 7155,The ENVY Photo 7155 produces high-quality prints with vibrant colors.,Appreciation,Appreciation,High-Quality Prints
+98,45,Female,New York,USA,HP,DeskJet 3630,The DeskJet 3630 is a budget-friendly printer with reliable performance.,Appreciation,Appreciation,Affordability
+99,30,Male,London,UK,HP,OfficeJet 4650,Having issues with the OfficeJet 4650 ink cartridges.,Complaint,Problem,Ink Cartridge Issues
+100,39,Female,Los Angeles,USA,HP,LaserJet Pro MFP,The LaserJet Pro MFP is a versatile printer with multiple functions.,Appreciation,Appreciation,Versatility
